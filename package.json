@@ -1,0 +1,34 @@
+{
+  "name": "namaste-react-ep1",
+  "version": "1.0.0",
+  "description": "This is Namaste Episode-01",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/msgtopadmaja/namaste-react)"
+  },
+  "keywords": [
+    "react",
+    "namaste",
+    "react"
+  ],
+  "author": "Padmaja",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-babel": "^2.13.3",
+    "@parcel/transformer-react-refresh-wrap": "^2.13.3",
+    "parcel": "^2.13.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  },
+  "browsersList": [
+    "last 2 versions"
+  ]
+}
